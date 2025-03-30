@@ -146,8 +146,8 @@ Feel free to modify and distribute the code with attribution.
 ---
 
 ## 👨‍💻 **Author**
-👤 **Your Name**  
-📧 [Your Email](mailto:your.email@example.com)  
+👤 **Thillai Nirmal K**  
+📧shanmugakannan7549@gmail.com
 🌐 [GitHub Profile](https://github.com/thillainirmal-tech)
 
 ---
