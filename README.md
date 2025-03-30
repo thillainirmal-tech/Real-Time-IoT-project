@@ -15,8 +15,7 @@ The **Smart Home Energy Management System** is an IoT-based project using **ESP3
 ## 📷 **Project Demo**
 🚀 **Simulation:** [Smart Home Energy Management](https://wokwi.com/projects/398558632512308225)  
 📸 **Screenshots:**
-- ![Blynk Dashboard](https://via.placeholder.com/400x200.png?text=Add+Dashboard+Image)
-- ![LCD Display](https://via.placeholder.com/400x200.png?text=Add+LCD+Image)
+- (refer word file)
 
 ---
 
