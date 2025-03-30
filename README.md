@@ -148,6 +148,3 @@ Feel free to modify and distribute the code with attribution.
 📧shanmugakannan7549@gmail.com
 🌐 [GitHub Profile](https://github.com/thillainirmal-tech)
 
----
-
-✅ This `README.md` is **detailed, professional, and clear**. It covers the project overview, features, installation steps, and circuit details effectively. Let me know if you need modifications or additional sections! 🚀
