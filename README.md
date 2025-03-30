@@ -41,8 +41,7 @@ The **Smart Home Energy Management System** is an IoT-based project using **ESP3
 ---
 
 ## 🔧 **Circuit Diagram**
-📐 *Include a schematic diagram image here.*  
-![Circuit Diagram](https://via.placeholder.com/600x300.png?text=Add+Circuit+Diagram)
+(refer word file)
 
 ---
 
